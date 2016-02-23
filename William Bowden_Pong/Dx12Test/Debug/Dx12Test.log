@@ -1,0 +1,17 @@
+﻿Build started 9/26/2015 4:03:23 PM.
+     1>Project "C:\Users\Bill Bowden\Desktop\FLASH DRIVE\William Bowden_Pong\Dx12Test\Dx12Test.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Dx12Test.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Dx12Test.vcxproj -> C:\Users\Bill Bowden\Desktop\FLASH DRIVE\William Bowden_Pong\Debug\Dx12Test.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Dx12Test.unsuccessfulbuild".
+         Touching "Debug\Dx12Test.lastbuildstate".
+     1>Done Building Project "C:\Users\Bill Bowden\Desktop\FLASH DRIVE\William Bowden_Pong\Dx12Test\Dx12Test.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
